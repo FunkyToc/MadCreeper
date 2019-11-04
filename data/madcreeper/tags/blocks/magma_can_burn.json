@@ -1,0 +1,19 @@
+{
+  "values": [
+    "#minecraft:sand",
+    "#minecraft:dirt_like",
+    "#minecraft:logs",
+    "#minecraft:slabs",
+    "#minecraft:planks",
+    "#minecraft:stairs",
+    "#minecraft:stone_bricks",
+    "minecraft:stone",
+    "minecraft:cobblestone",
+    "minecraft:sand",
+    "minecraft:andesite",
+    "minecraft:diorite",
+    "minecraft:granite",
+    "minecraft:sandstone",
+    "minecraft:red_sandstone"
+  ]
+}

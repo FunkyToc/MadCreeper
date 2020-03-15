@@ -15,3 +15,7 @@ team remove mc_nuclear
 team remove mc_vortex
 
 datapack disable "file/MadCreeper"
+datapack disable "file/MadCreeper-master"
+datapack disable "file/MadCreeper-1.13"
+datapack disable "file/MadCreeper-1.14"
+datapack disable "file/MadCreeper-1.15"

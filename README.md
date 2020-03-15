@@ -1,13 +1,13 @@
 # MadCreeper
-A Minecraft datapack to add 6 classes of creepers.
+A Minecraft datapack to add 6 classes of deadly creepers.
 
 # Requires 
-- Minecraft 1.13/1.14
+- Minecraft 1.13 / 1.14 / 1.15
 
 # Use
 1. Download the package and unzip it
 2. Copy/paste the entire "MadCreeper/" folder in your "saves/your-map/datapacks/" folder.
-3. Launch the game/server and play your map (you have an ingame message to confirm datapack's installation/update).
+3. Launch the game/server and play your map as you always do.
 
 # Author
 - Name : FunkyToc 

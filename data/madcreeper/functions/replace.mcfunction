@@ -1,9 +1,6 @@
 # madcreeper:replace
 # merge data to vanilla creeper
 
-
-## Choose a class
-
 # Toxic
 execute as @e[type=minecraft:creeper,tag=!madcreeper,limit=3] at @s if entity @e[type=minecraft:slime,distance=..32] run tag @s add mc_toxic
 execute as @e[type=minecraft:creeper,tag=!madcreeper] at @s if entity @e[type=minecraft:witch,distance=..32] run tag @s add mc_toxic

@@ -1,7 +1,6 @@
 # madcreeper:uninstall
 # Uninstall all scores and tags
 
-
 tag @e remove madcreeper
 tag @e remove mc_normal
 tag @e remove mc_toxic

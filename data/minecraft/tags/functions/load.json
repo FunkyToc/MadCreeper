@@ -1,5 +1,6 @@
 {
-    "values": [
-        "madcreeper:load"
-    ]
+	"values": [
+		"fktool:load",
+		"mc:load"
+	]
 }

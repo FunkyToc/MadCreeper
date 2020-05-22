@@ -2,7 +2,7 @@
 A Minecraft datapack to add 6 classes of deadly creepers.
 
 # Requires 
-- Minecraft 1.13 / 1.14 / 1.15
+- Minecraft 1.13 / 1.14 / 1.15 / 1.16
 
 # Use
 1. Download the package and unzip it

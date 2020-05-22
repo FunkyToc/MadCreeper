@@ -1,0 +1,2 @@
+execute if entity @a[distance=..32] run particle minecraft:dust 0.8 0.8 0.65 0.8 ~ ~0.1 ~ 0.2 0.1 0.2 0.001 1
+execute if entity @a[distance=10..11] run particle minecraft:large_smoke ~ ~0.6 ~ 1 0.5 1 0.001 30

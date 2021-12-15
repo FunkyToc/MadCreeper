@@ -1,0 +1,9 @@
+[
+  {
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+      "nbt": "{Motion:[0.0d,0.000000000000000000d,0.0d]}"
+    }
+  }
+]
